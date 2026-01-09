@@ -1,2 +1,2 @@
-# viniciussales.github.io
+# vssp-viniciussales.github.io
 Ecossistema Vinícius Sales
